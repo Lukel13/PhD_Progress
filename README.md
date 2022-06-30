@@ -19,3 +19,5 @@ Contains the ASPECT files ran and created as part of my PhD at the University of
 - **GPlates Data** - Contains coastline and continental polygons as well as the rotations file used to generate the velocity points used in the GPlates parameter files
 
 # Figures
+![Gantt chart 1](https://user-images.githubusercontent.com/95885918/176795173-526f50b9-31ed-41c5-b8e8-603552363a07.png)
+**Figure 1** - Gantt chart of what’s to be expected over the first year of my study. The start of the year represents a period of training (yellow bars) which leads to a period of data collection and writing up my findings (turquoise bars). My research will also be presented at conference (blue bars) published in a peer reviewed jouirnal (red bar) near the start of the second year.
