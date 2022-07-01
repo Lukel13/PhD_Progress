@@ -5,8 +5,6 @@
 
 
 :::::: Logging in, exiting, and moving into scratch ::::::
-:: Logging in to the NIAGARA lab
-ssh -X llongley@niagara.computecanada.ca
 
 :: Moving from the lab to scratch
 cd  /scratch/p/pheron/llongley
