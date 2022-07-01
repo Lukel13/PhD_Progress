@@ -13,7 +13,6 @@ Contains the ASPECT files ran and created as part of my PhD at the University of
 - **3d_continental_extension.prm** - 3D extension model with a straight seed
 - **3d_convection.prm** - Unmodified convection_box_3d.prm cookbook model
 - **3d_faran_extension.prm** - 3D extension model used in Farangitakis et al. (2020)
-- **NIAGARA supercomputer commands.bat** - Console commands list
 - **gplates_2d.prm** - Unmodified gplates_2d.prm cookbook model
 - **gplates_3d.prm** - 3D global velocity model using GPlates data 
 - **GPlates Data** - Contains coastline and continental polygons as well as the rotations file used to generate the velocity points used in the GPlates parameter files
