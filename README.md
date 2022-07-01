@@ -26,3 +26,10 @@ Contains the ASPECT files ran and created as part of my PhD at the University of
 ![2D Continental Extension](https://user-images.githubusercontent.com/95885918/176878393-9538ab14-805f-41bd-a84a-05d4e4943375.png)
 <br clear="left"/>
 **Figure 2** - 2D continental extension model with a spreading rate of 0.25 cm/year at each boundary. Demonstrates how the upper crust, lower crust and mantle deform after 0, 20 and 40 Myr.
+
+![3D Continental Extension](https://user-images.githubusercontent.com/95885918/176916445-5b01c4d9-8b6f-42f5-91dc-3f930c332ea2.png)
+<br clear="left"/>
+**Figure 3** - A 3D orthogonal extension model that facilitates the development of 2 spreading ridges joined by a transform. Panels show the surface material evolution and the total strain at 0, 10, 20, 30 and 40 Myr.
+
+![GPlates model](https://user-images.githubusercontent.com/95885918/176917971-4f244912-8ce9-4346-9ce7-ee4283c2ddfb.png)
+**Figure 4** - A global velocity model that displays current day plate velocities. The Muller2019-Young2019-Cao2020_CombinedRotations.rot file was used to create this model.
