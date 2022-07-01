@@ -2,20 +2,20 @@
 Contains the ASPECT files ran and created as part of my PhD at the University of Derby
 
 # List of .prm and associated files
-- **2d_continental_compression.prm** - 2D continental compression model that also removes material from the base
+- **2d_continental_compression.prm** - 2D continental compression model
 - **2d_continental_extension.prm** - Unmodified continental_extension.prm cookbook model
 - **2d_continental_extension_2seed.prm** - 2D continental extension model with two seeds, each near the edges of the model
 - **2d_continental_extension_strainweak.prm** - 2D continental extension model with strain weakening
-- **2d_continental_extension_thick.prm** - 2D continental extension model with an uipper and lower crust that's twice as thick
+- **2d_continental_extension_thick.prm** - 2D continental extension model with an upper and lower crust that's twice as thick
 - **2d_convection.prm** - Unmodified convection-box.prm cookbook model
-- **2d_crustal_compression.prm** -  2D compression model that's 16 km deep
-- **2d_crustal_extension.prm** - 2D extension model that's 16 km deep
+- **2d_crustal_compression.prm** -  2D compression model that only goes 16 km deep
+- **2d_crustal_extension.prm** - 2D extension model that only goes 16 km deep
 - **3d_continental_extension.prm** - 3D extension model with a straight seed
 - **3d_convection.prm** - Unmodified convection_box_3d.prm cookbook model
 - **3d_faran_extension.prm** - 3D extension model used in Farangitakis et al. (2020)
 - **gplates_2d.prm** - Unmodified gplates_2d.prm cookbook model
 - **gplates_3d.prm** - 3D global velocity model using GPlates data 
-- **GPlates Data** - Contains coastline and continental polygons as well as the rotations file used to generate the velocity points used in the GPlates parameter files
+- **GPlates Data** - Contains coastline and continental polygons as well as the rotation file used to generate the velocity points used in the GPlates parameter files
 
 Cookbook models can be accessed at https://github.com/geodynamics/aspect
 
