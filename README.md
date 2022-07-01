@@ -28,7 +28,7 @@ Cookbook models can be accessed at https://github.com/geodynamics/aspect
 <br clear="left"/>
 **Figure 2** - 2D continental extension model with a spreading rate of 0.25 cm/year at each boundary. Demonstrates how the upper crust, lower crust and mantle deform after 0, 20 and 40 Myr.
 
-![3D Continental Extension](https://user-images.githubusercontent.com/95885918/176933313-8129cf8c-fc08-45b0-8ab4-7b37899cf08a.png)
+![3D Continental Extension](https://user-images.githubusercontent.com/95885918/176937473-23d45726-a271-42be-8293-f47f541c02e0.png)
 <br clear="left"/>
 **Figure 3** - A 3D orthogonal extension model that facilitates the development of 2 spreading ridges joined by a transform. Panels show the surface material evolution and the total strain at 0, 10, 20, 30 and 40 Myr.
 
